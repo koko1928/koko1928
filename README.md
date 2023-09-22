@@ -1,7 +1,11 @@
-<a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=koko1928&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koko1928&layout=compact&theme=dracula" />
-</a>
-<img src="https://raw.githubusercontent.com/koko1928/snake/f3d23bc6aeed6582b7c7d3fc7d3675027b761ed2/github-user-contribution.svg">
+<p align="left">
+  <a href="https://github.com/koko1928/koko1928/">
+    <img src="https://komarev.com/ghpvc/?username=koko1928" alt="koko1928" />
+  </a>
+  <a href="https://github.com/koko1928">
+    <img height="20" src="https://img.shields.io/github/followers/koko1928?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://github-stats-evirunurm.vercel.app/api/stats.js?username=koko1928">
+    <img height="20" src="https://img.shields.io/github/followers/koko1928?label=follow&logo=github&style=flat" />
+  </a>
+</p>
