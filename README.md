@@ -1,3 +1,6 @@
+![Anurag's GitHub stats]
+(https://github-readme-stats.vercel.app/apiusername=koko1928&show_icons=true&theme=dark)
+
 <p align="left">
   <a href="https://github.com/koko1928/koko1928/">
     <img src="https://komarev.com/ghpvc/?username=koko1928" alt="koko1928" />
