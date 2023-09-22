@@ -6,6 +6,5 @@
     <img height="20" src="https://img.shields.io/github/followers/koko1928?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://github-stats-evirunurm.vercel.app/api/stats.js?username=koko1928">
-    <img height="20" src="https://img.shields.io/github/followers/koko1928?label=follow&logo=github&style=flat" />
   </a>
 </p>
