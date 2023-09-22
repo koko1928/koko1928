@@ -1,4 +1,3 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=koko1928&left_color=gray&right_color=blue)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koko1928&theme=vue)
  
