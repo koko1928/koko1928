@@ -1,13 +1,7 @@
-![Anurag's GitHub stats]
-(https://github-readme-stats.vercel.app/apiusername=koko1928&show_icons=true&theme=dark)
-
-<p align="left">
-  <a href="https://github.com/koko1928/koko1928/">
-    <img src="https://komarev.com/ghpvc/?username=koko1928" alt="koko1928" />
-  </a>
-  <a href="https://github.com/koko1928">
-    <img height="20" src="https://img.shields.io/github/followers/koko1928?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://github-stats-evirunurm.vercel.app/api/stats.js?username=koko1928">
-  </a>
-</p>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=koko1928&left_color=gray&right_color=blue)
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koko1928&theme=vue)
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koko1928&show_icons=true)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koko1928&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
