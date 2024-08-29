@@ -1,7 +1,3 @@
-<h3 align="left">summary:</h3> 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koko1928&theme=vue)
-
  <h3 align="left">Top langs and stats:</h3>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koko1928&layout=compact&show_icons=true&theme=dark" />
@@ -136,3 +132,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
+
+
+<h3 align="left">summary:</h3> 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koko1928&theme=github_dark)
